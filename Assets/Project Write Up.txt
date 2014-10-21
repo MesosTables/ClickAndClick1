@@ -1,0 +1,31 @@
+Project Description:
+A very basic description of the concept of the game
+
+Learning Objective:
+Assets creation
+Game Scripting
+GUI Elements
+Input
+Events
+Scene Loading
+
+Production Time Actuals/-/ Estimates:
+Setup 10 mintues /-/ 15 minutes
+Assets 45 mintues /-/ 45 miutes
+Player 30 mintues /-/ 35 minutes
+Enemies 20 mintues /-/ 45 minutes
+Menus 40 mintues /-/ 30 minutes
+GUI 10 mintues /-/ 20 minutes
+Build 10 mintues /-/ 5 minutes
+Reveiw 10 mintues /-/ 12 minutes
+
+High Concept:
+A speed mouse clicking game. Using the mouse click and destroy the most shapes in a certain amount of time
+
+Controls:
+The left mouse button selects shapes and destroys them
+
+Assets Needed:
+Targets
+Explosions
+

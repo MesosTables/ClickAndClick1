@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scriptScreenWin.js">
+    <Files>
+      <File FileName="Assets\scriptScreenWin.js" Line="17" Column="49" />
+      <File FileName="Assets\scriptScreenMaineMenu.js" Line="16" Column="56" />
+      <File FileName="Assets\scriptScreenLose.js" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
